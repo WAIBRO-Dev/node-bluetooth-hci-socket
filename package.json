@@ -1,5 +1,5 @@
 {
-  "name": "waibrosports/bluetooth-hci-socket",
+  "name": "@waibrosports/bluetooth-hci-socket",
   "version": "0.5.3-9",
   "description": "Bluetooth HCI socket binding for Node.js",
   "main": "index.js",
